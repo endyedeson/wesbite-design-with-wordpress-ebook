@@ -1,4 +1,6 @@
 # wesbite-design-with-wordpress-ebook
+<img width="1125" height="947" alt="Website Design With WordPress eBook by Endy Edeson" src="https://github.com/user-attachments/assets/be983ff2-0b54-457c-aaf6-ed4ff259d2de" />
+
 Website Design With WordPress is a comprehensive educational guide and training program created by Endy Edeson, a Lagos-based ICT instructor, web developer, and founder of Edeson InfoTech Global Services. The offering exists both as a published physical/digital guide and an in-person or distance learning course designed to teach absolute beginners how to build professional websites and monetize their technical skills.
 The Guide & Book Details:
 The material is distributed as a detailed guidebook available on Selar and Amazon. It breaks down core developmental phases including:
